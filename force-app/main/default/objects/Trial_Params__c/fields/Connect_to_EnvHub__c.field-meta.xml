@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Connect_to_EnvHub__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>When set to true, the trial organization is connected to the Environment Hub. The sign-up must take place in the hub master organization or a spoke organization.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>When set to true, the trial organization is connected to the Environment Hub. The sign-up must take place in the hub master organization or a spoke organization.</inlineHelpText>
+    <label>Connect to EnvHub</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
