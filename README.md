@@ -12,7 +12,7 @@ The custom object allows you to store multiple template ids (for example trials 
 The custom setting allows you to add flexibility to the signup request process. For example, create a lead with each request.
 
 ## Where can I find out more information?
-Make it easy for your customers to provision trials - [Part1](https://medium.com/inside-the-salesforce-ecosystem/signuprequest-api-and-trials-part-1-a8031258163a) and [Part2](https://medium.com/inside-the-salesforce-ecosystem/make-it-easy-for-your-customers-to-provision-trials-part-2-99cb9578675a)
-[SignupRequest API documentation](https://developer.salesforce.com/docs/atlas.en-us.212.0.object_reference.meta/object_reference/sforce_api_objects_signuprequest.htm)
-[Trailhead - Trail Management](https://trailhead.salesforce.com/content/learn/modules/isv_app_trials?trail_id=isv_developer_beginner)
+- Make it easy for your customers to provision trials - [Part1](https://medium.com/inside-the-salesforce-ecosystem/signuprequest-api-and-trials-part-1-a8031258163a) and [Part2](https://medium.com/inside-the-salesforce-ecosystem/make-it-easy-for-your-customers-to-provision-trials-part-2-99cb9578675a)
+- [SignupRequest API documentation](https://developer.salesforce.com/docs/atlas.en-us.212.0.object_reference.meta/object_reference/sforce_api_objects_signuprequest.htm)
+- [Trailhead - Trail Management](https://trailhead.salesforce.com/content/learn/modules/isv_app_trials?trail_id=isv_developer_beginner)
 
