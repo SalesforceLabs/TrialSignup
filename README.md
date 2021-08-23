@@ -2,6 +2,9 @@
 
 This project is a Proof of Concept to show you how you can utilize the SignupRequest API with Lightning flows to allow internal and external users to provision trials.
 
+**Dependency**
+This project relies on the SignupRequest API being enabled in the target org.
+
 ## What does this project contain?
 - Custom App - Trialforce Manager
 - Custom Object - Trial Template
