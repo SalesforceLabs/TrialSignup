@@ -1,18 +1,18 @@
-# Salesforce DX Project: Next Steps
+# Trial Signup: Introduction
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+This project is a Proof of Concept to show you how you can utilize the SignupRequest API with Lightning flows to allow internal and external users to provision trials.
 
-## How Do You Plan to Deploy Your Changes?
+## What does this project contain?
+- Custom App - Trialforce Manager
+- Custom Object - Trial Template
+- Custom Report Type - Trail Signup Requests
+- Lightning Flow - Signup Request
+- Custom Settings - Trial Params
+The custom object allows you to store multiple template ids (for example trials to target different industries).
+The custom setting allows you to add flexibility to the signup request process. For example, create a lead with each request.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Where can I find out more information?
+Make it easy for your customers to provision trials - [Part1](https://medium.com/inside-the-salesforce-ecosystem/signuprequest-api-and-trials-part-1-a8031258163a) and [Part2](https://medium.com/inside-the-salesforce-ecosystem/make-it-easy-for-your-customers-to-provision-trials-part-2-99cb9578675a)
+[SignupRequest API documentation](https://developer.salesforce.com/docs/atlas.en-us.212.0.object_reference.meta/object_reference/sforce_api_objects_signuprequest.htm)
+[Trailhead - Trail Management](https://trailhead.salesforce.com/content/learn/modules/isv_app_trials?trail_id=isv_developer_beginner)
 
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
